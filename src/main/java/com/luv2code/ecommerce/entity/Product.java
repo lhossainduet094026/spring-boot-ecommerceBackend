@@ -1,2 +1,5 @@
-package src.main.java.com.luv2code.ecommerce.entity;public class Product {
+package src.main.java.com.luv2code.ecommerce.entity;
+
+public class Product {
+
 }

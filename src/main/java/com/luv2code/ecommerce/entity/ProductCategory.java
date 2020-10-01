@@ -1,5 +1,6 @@
 package src.main.java.com.luv2code.ecommerce.entity;
 
+import com.luv2code.ecommerce.entity.Product;
 import lombok.Getter;
 import lombok.Setter;
 
